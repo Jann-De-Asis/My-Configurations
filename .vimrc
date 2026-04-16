@@ -66,4 +66,4 @@ set autoindent
 set incsearch
 
 " Does not delay between modes.
-set ttimeoutlen=10
+set ttimeoutlen=50
