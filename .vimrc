@@ -10,10 +10,10 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'preservim/nerdtree' |
 Plug 'farmergreg/vim-lastplace'
+Plug 'jiangmiao/auto-pairs'
 
 " HTML
 
-Plug 'jiangmiao/auto-pairs'
 Plug 'alvan/vim-closetag'
 Plug 'AndrewRadev/tagalong.vim'
 
